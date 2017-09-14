@@ -13,12 +13,12 @@
       >$ gitEg.fas
       
   5) run different available botCommands
-  
-     	-help -- lists available botCOmmands
-      -save -- save new record list
+  ```
+     	- help  lists available botCOmmands
+      - save  save new record list
       -delete -- delete record by artist, genere and other options
       -update -- update record by artist, genere ratings etc
       -search -- search record by artist, genere and ratings
-    
+ ```   
     
   ===== thank you enjoy =====  
