@@ -1,10 +1,10 @@
 # CdManager
 1) description
-  a basic LISP CRUD operation for  managing CD Records 
+      a basic LISP CRUD operation for  managing CD Records 
  
 2) installation
-    clone this repo
-      $git clone https://github.com/nirparai/CdManager.git
+      clone this repo
+          $ git clone https://github.com/nirparai/CdManager.git
 3) compile .lisp file
       $ gitEg.lisp
 4) run .fas file    
