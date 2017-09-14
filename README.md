@@ -4,11 +4,11 @@
    
   2) installation
       clone this repo
-      $ git clone https://github.com/nirparai/CdManager.git
+      >$ git clone https://github.com/nirparai/CdManager.git
   3) compile .lisp file
-      $ gitEg.lisp
+      >$ gitEg.lisp
   4) run .fas file    
-      $ gitEg.fas
+      >$ gitEg.fas
   5) run different available botCommands
      	help -- lists available botCOmmands
       save -- save new record list
